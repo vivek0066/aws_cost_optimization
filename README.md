@@ -1,4 +1,4 @@
-# AWS Cloud cost optimization
+# AWS Cloud Cost Optimization
 This repo will contain lambda functions for the optimization of AWS resources.
 
 ## Identifying Stale Elastic Block Storage Snapshots
