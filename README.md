@@ -1,2 +1,2 @@
-# aws_cost_optimization
-This repo will contain lambda functions for the optimisation of AWS resources.
+# aws cost optimization
+This repo will contain lambda functions for the optimization of AWS resources.
